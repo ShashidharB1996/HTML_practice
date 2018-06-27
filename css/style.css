@@ -8,8 +8,8 @@ h1{
 }
 
 div{
-    width: 600px;
-    background: red;
+    width: auto;
+    background: gray;
     margin: auto;
     text-align: center;
 }
